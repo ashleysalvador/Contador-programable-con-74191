@@ -7,7 +7,7 @@ elige con interruptores.
 ## CON LOGICSTATE 0 0
 ![Circuito](circuito74.PNG)
 ## CON LOGICSTATE 1 0
-![Circuito](memdescendente.PNG)
+![Circuito](memdescendete.PNG)
 ## CON LOGICSTATE 0 1
 ![Circuito](memascendente.PNG)
 ## CON LOGICSTATE 1 1

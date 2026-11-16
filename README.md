@@ -8,9 +8,9 @@ elige con interruptores.
 ![Circuito](circuito74.PNG)
 ## CON LOGICSTATE 1 0
 ![Circuito](memdescendente.PNG)
-CON LOGICSTATE 0 1
+## CON LOGICSTATE 0 1
 ![Circuito](memascendente.PNG)
-CON LOGICSTATE 1 1
+## CON LOGICSTATE 1 1
 ![Circuito](descendente.PNG)
 
 ## Componentes

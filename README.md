@@ -4,7 +4,7 @@ Simulación en Proteus de un contador binario de 4 bits (74191) con carga
 paralela. Puede contar hacia arriba o hacia abajo, y el valor de inicio se
 elige con interruptores.
 
-![Circuito](captura74.png)
+![Circuito](circuito74.png)
 
 ## Componentes
 - 74191: contador binario síncrono arriba/abajo con carga paralela
